@@ -1,0 +1,68 @@
+#logo {
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+nav {
+    text-align: center;
+    display: block;
+    background-color: rgb(71, 71, 71);
+    height: 100px;
+}
+
+.fixedContainer {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+nav a {
+    color: rgb(192, 187, 187);
+    text-decoration: none;
+    margin: 30px;
+    display: inline-block;
+}
+
+#subbanner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.subpics {
+    margin-right: 25px;
+}
+
+#featuredText {
+    display: inline-block;
+    width: 50%;
+    padding-left: 10px;
+    padding-bottom: 70px;
+}
+
+#featuredText p {
+    overflow-y: scroll;
+    max-height: 300px;
+}
+
+#header {
+    font-weight: bolder;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: left;
+}
+
+footer {
+    background-color: rgb(71, 71, 71);
+    height: 100px;
+}
